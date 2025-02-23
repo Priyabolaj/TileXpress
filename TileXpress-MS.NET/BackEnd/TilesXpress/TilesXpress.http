@@ -1,0 +1,6 @@
+@ElegantJewellery_HostAddress = http://localhost:5135
+
+GET {{ElegantJewellery_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
