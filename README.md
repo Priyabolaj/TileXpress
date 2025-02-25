@@ -20,18 +20,18 @@
  *Setup Instructions*  
 1. Clone the repository:  
    bash
-   git clone https://github.com/your-username/TileXpress.git
+   git clone https://github.com/your-username/TileXpress.git <br>
    cd TileXpress
    
 2. Install dependencies for the frontend:  
    bash
-   cd frontend
-   npm install
+   cd frontend <br>
+   npm install <br>
    npm run dev
    
 3. Set up the backend:  
    bash
-   cd backend
+   cd backend<br>
    mvn spring-boot:run
    
 4. Configure MySQL database in application.properties.  
